@@ -1,0 +1,8 @@
+{
+	"name": "Fulgure",
+	"cozy-type": "static",
+	"cozy-displayName": "Fulgure",
+	"version": "0.0.1",
+	"description": "La culture spontanée",
+	"icon-path": "main_icon.png"
+}
