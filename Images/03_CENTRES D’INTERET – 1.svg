@@ -1,1 +1,129 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1900 0 375 920"><defs><style>.a{clip-path:url(#d);}.b{fill:#01579b;}.c,.d,.g,.h,.i{fill:#fff;}.c{font-size:24px;font-family:Roboto-Light, Roboto;font-weight:300;}.d,.i,.j{font-size:14px;}.d,.j{font-family:Roboto-Regular, Roboto;}.e{fill:#b3b3b3;}.f{fill:none;}.g{fill-rule:evenodd;}.i{font-family:Roboto-Medium, Roboto;font-weight:500;}.j{fill:#b92d00;}.k{fill:#f2f2f2;}.l{filter:url(#a);}</style><filter id="a" x="1951" y="831" width="274" height="69" filterUnits="userSpaceOnUse"><feOffset dy="8" input="SourceAlpha"/><feGaussianBlur stdDeviation="4" result="b"/><feFlood flood-opacity="0.149"/><feComposite operator="in" in2="b"/><feComposite in="SourceGraphic"/></filter><clipPath id="d"><rect x="1900" width="375" height="920"/></clipPath></defs><g id="c" class="a"><rect class="k" x="1900" width="375" height="920"/><g transform="translate(1838 -672)"><rect class="b" width="375" height="220" transform="translate(62 672)"/><text class="c" transform="translate(102 767.987)"><tspan x="0" y="0">Ces centres d’intérêt </tspan><tspan x="0" y="28">te correspondent-ils ?</tspan></text><text class="d" transform="translate(102 812)"><tspan x="0" y="13">Sélectionne tes centres d’intérêt principaux,</tspan><tspan x="0" y="29">tu pourras modifier tes choix plus tard dans</tspan><tspan x="0" y="45">ton profil.</tspan></text></g><path class="e" d="M0,0H180V180H0Z" transform="translate(1905 410)"/><path class="e" d="M0,0H180V180H0Z" transform="translate(1905 225)"/><g transform="translate(1983 430)"><rect class="f" width="24" height="24"/><path class="g" d="M12,2A10,10,0,1,0,22,12,10.029,10.029,0,0,0,12,2Zm0,18a8,8,0,1,1,8-8,8.024,8.024,0,0,1-8,8Z"/></g><g transform="translate(1983 245)"><rect class="f" width="24" height="24"/><path class="g" d="M12,2A10,10,0,1,0,22,12,10.029,10.029,0,0,0,12,2Zm0,18a8,8,0,1,1,8-8,8.024,8.024,0,0,1-8,8Z"/></g><text class="d" transform="translate(1955 567.322)"><tspan x="0" y="0">Gastronomie</tspan></text><text class="d" transform="translate(1943 382.322)"><tspan x="0" y="0">Musées, galeries</tspan></text><path class="e" d="M0,0H180V180H0Z" transform="translate(2090 410)"/><path class="e" d="M0,0H180V180H0Z" transform="translate(2090 225)"/><g transform="translate(2168 430)"><rect class="f" width="24" height="24"/><path class="g" d="M12,2A10,10,0,1,0,22,12,10.029,10.029,0,0,0,12,2Zm0,18a8,8,0,1,1,8-8,8.024,8.024,0,0,1-8,8Z"/></g><g transform="translate(2168 245)"><rect class="f" width="24" height="24"/><path class="g" d="M12,2A10,10,0,1,0,22,12,10.029,10.029,0,0,0,12,2Zm0,18a8,8,0,1,1,8-8,8.024,8.024,0,0,1-8,8Z"/></g><text class="d" transform="translate(2180 567.322)"><tspan x="-58.174" y="0">Concerts, musique</tspan></text><text class="d" transform="translate(2180 382.322)"><tspan x="-14.144" y="0">Bars</tspan></text><g transform="translate(2152 467)"><path class="f" d="M0,0H60V60H0Z"/></g><g transform="translate(2152 282)"><path class="f" d="M0,0H60V60H0Z"/></g><path class="h" d="M23,19.5H18V2H13V19.5H8V2H3V19.5a9.965,9.965,0,0,0,9.375,9.925V52h6.25V29.425A9.965,9.965,0,0,0,28,19.5V2H23ZM35.5,12V32h6.25V52H48V2C41.1,2,35.5,7.6,35.5,12Z" transform="translate(1969.5 473)"/><g transform="translate(2150 470)"><path class="f" d="M0,0H60V60H0Z"/><path class="h" d="M27,2A25,25,0,1,0,52,27,25.009,25.009,0,0,0,27,2Zm0,36.25A11.25,11.25,0,1,1,38.25,27,11.235,11.235,0,0,1,27,38.25ZM27,24.5A2.5,2.5,0,1,0,29.5,27,2.507,2.507,0,0,0,27,24.5Z" transform="translate(3 3)"/></g><g transform="translate(1965 285)"><path class="f" d="M0,0H60V60H0Z"/><path class="h" d="M14.5,30.5A7.49,7.49,0,0,0,7,38a5.073,5.073,0,0,1-5,5,12.935,12.935,0,0,0,10,5A10,10,0,0,0,22,38,7.49,7.49,0,0,0,14.5,30.5ZM48.775,7.079l-3.35-3.35a2.49,2.49,0,0,0-3.525,0l-22.4,22.4L26.375,33l22.4-22.4A2.49,2.49,0,0,0,48.775,7.079Z" transform="translate(3 4.496)"/></g><path class="h" d="M48,8V3H3V8L23,30.5V43H10.5v5h30V43H28V30.5ZM14.075,13,9.65,8H41.375l-4.45,5Z" transform="translate(2154.5 289.5)"/><g transform="translate(1900 313)"><g class="l" transform="matrix(1, 0, 0, 1, -1900, -313)"><path class="e" d="M22.5,0h205a22.5,22.5,0,0,1,0,45H22.5a22.5,22.5,0,0,1,0-45Z" transform="translate(1963 835)"/></g><text class="i" transform="translate(188 550)"><tspan x="-27.593" y="0">VALIDER</tspan></text></g><text class="j" transform="translate(1938 810)"><tspan x="29.028" y="13">Choisis 2 centres d&apos;intérêt au minimum</tspan></text><path class="e" d="M0,0H180V180H0Z" transform="translate(1905 595)"/><g transform="translate(1965 655)"><path class="h" d="M39,3V8H34V3H14V8H9V3H4V48H9V43h5v5H34V43h5v5h5V3ZM14,38H9V33h5Zm0-10H9V23h5Zm0-10H9V13h5ZM39,38H34V33h5Zm0-10H34V23h5Zm0-10H34V13h5Z" transform="translate(6 4.5)"/><path class="f" d="M0,0H60V60H0Z"/></g><g transform="translate(1983 605)"><rect class="f" width="24" height="24"/><path class="g" d="M12,2A10,10,0,1,0,22,12,10.029,10.029,0,0,0,12,2Zm0,18a8,8,0,1,1,8-8,8.024,8.024,0,0,1-8,8Z"/></g><text class="d" transform="translate(1953 752.322)"><tspan x="0" y="0">Cinéma, films</tspan></text><path class="e" d="M0,0H180V180H0Z" transform="translate(2090 595)"/><g transform="translate(2168 605)"><rect class="f" width="24" height="24"/><path class="g" d="M12,2A10,10,0,1,0,22,12,10.029,10.029,0,0,0,12,2Zm0,18a8,8,0,1,1,8-8,8.024,8.024,0,0,1-8,8Z"/></g><text class="d" transform="translate(2180 752.322)"><tspan x="-40.698" y="0">Parcs, nature</tspan></text><g transform="translate(2150 655)"><path class="f" d="M0,0H60V60H0Z"/><path class="h" d="M25.5,53.5A22.5,22.5,0,0,0,48,31,22.5,22.5,0,0,0,25.5,53.5ZM9.5,24.125a6.257,6.257,0,0,0,9.8,5.15l-.05.475a6.25,6.25,0,0,0,12.5,0l-.05-.475a6.161,6.161,0,0,0,3.55,1.1A6.236,6.236,0,0,0,37.925,18.5,6.241,6.241,0,1,0,31.7,7.725l.05-.475a6.25,6.25,0,0,0-12.5,0l.05.475a6.161,6.161,0,0,0-3.55-1.1A6.236,6.236,0,0,0,13.075,18.5,6.228,6.228,0,0,0,9.5,24.125Zm16-11.875a6.25,6.25,0,1,1-6.25,6.25A6.252,6.252,0,0,1,25.5,12.25ZM3,31A22.5,22.5,0,0,0,25.5,53.5,22.5,22.5,0,0,0,3,31Z" transform="translate(4.5 1.5)"/></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="1900 0 375 920">
+<defs>
+<style>
+.a{clip-path:url(#d);}.b{fill:#01579b;}.c,.d,.g,.h,.i{fill:#fff;}.c{font-size:24px;font-family:Roboto-Light, Roboto;font-weight:300;}.d,.i,.j{font-size:14px;}.d,.j{font-family:Roboto-Regular, Roboto;}.e{fill:#b3b3b3;}.f{fill:none;}.g{fill-rule:evenodd;}.i{font-family:Roboto-Medium, Roboto;font-weight:500;}.j{fill:#b92d00;}.k{fill:#f2f2f2;}.l{filter:url(#a);}</style>
+<filter id="a" x="1951" y="831" width="274" height="69" filterUnits="userSpaceOnUse">
+<feOffset dy="8" input="SourceAlpha"/>
+<feGaussianBlur stdDeviation="4" result="b"/>
+<feFlood flood-opacity="0.149"/>
+<feComposite operator="in" in2="b"/>
+<feComposite in="SourceGraphic"/>
+</filter>
+<clipPath id="d">
+<rect x="1900" width="375" height="920"/>
+</clipPath>
+</defs>
+<g id="c" class="a">
+<rect class="k" x="1900" width="375" height="920"/>
+<g transform="translate(1838 -672)">
+<rect class="b" width="375" height="220" transform="translate(62 672)"/>
+<text class="c" transform="translate(102 767.987)">
+<tspan x="0" y="0">
+Ces centres d’intérêt </tspan>
+<tspan x="0" y="28">
+te correspondent-ils ?</tspan>
+</text>
+<text class="d" transform="translate(102 812)">
+<tspan x="0" y="13">
+Sélectionne tes centres d’intérêt principaux,</tspan>
+<tspan x="0" y="29">
+tu pourras modifier tes choix plus tard dans</tspan>
+<tspan x="0" y="45">
+ton profil.</tspan>
+</text>
+</g>
+<path class="e" d="M0,0H180V180H0Z" transform="translate(1905 410)"/>
+<path class="e" d="M0,0H180V180H0Z" transform="translate(1905 225)"/>
+<g transform="translate(1983 430)">
+<rect class="f" width="24" height="24"/>
+<path class="g" d="M12,2A10,10,0,1,0,22,12,10.029,10.029,0,0,0,12,2Zm0,18a8,8,0,1,1,8-8,8.024,8.024,0,0,1-8,8Z"/>
+</g>
+<g transform="translate(1983 245)">
+<rect class="f" width="24" height="24"/>
+<path class="g" d="M12,2A10,10,0,1,0,22,12,10.029,10.029,0,0,0,12,2Zm0,18a8,8,0,1,1,8-8,8.024,8.024,0,0,1-8,8Z"/>
+</g>
+<text class="d" transform="translate(1955 567.322)">
+<tspan x="0" y="0">
+Gastronomie</tspan>
+</text>
+<text class="d" transform="translate(1943 382.322)">
+<tspan x="0" y="0">
+Musées, galeries</tspan>
+</text>
+<a xlink:href="../ci02.html" >
+<path class="e" d="M0,0H180V180H0Z" transform="translate(2090 410)"/>
+</a>
+<path class="e" d="M0,0H180V180H0Z" transform="translate(2090 225)"/>
+<g transform="translate(2168 430)">
+<rect class="f" width="24" height="24"/>
+<path class="g" d="M12,2A10,10,0,1,0,22,12,10.029,10.029,0,0,0,12,2Zm0,18a8,8,0,1,1,8-8,8.024,8.024,0,0,1-8,8Z"/>
+</g>
+<g transform="translate(2168 245)">
+<rect class="f" width="24" height="24"/>
+<path class="g" d="M12,2A10,10,0,1,0,22,12,10.029,10.029,0,0,0,12,2Zm0,18a8,8,0,1,1,8-8,8.024,8.024,0,0,1-8,8Z"/>
+</g>
+<text class="d" transform="translate(2180 567.322)">
+<tspan x="-58.174" y="0">
+Concerts, musique</tspan>
+</text>
+<text class="d" transform="translate(2180 382.322)">
+<tspan x="-14.144" y="0">
+Bars</tspan>
+</text>
+<g transform="translate(2152 467)">
+<path class="f" d="M0,0H60V60H0Z"/>
+</g>
+<g transform="translate(2152 282)">
+<path class="f" d="M0,0H60V60H0Z"/>
+</g>
+<path class="h" d="M23,19.5H18V2H13V19.5H8V2H3V19.5a9.965,9.965,0,0,0,9.375,9.925V52h6.25V29.425A9.965,9.965,0,0,0,28,19.5V2H23ZM35.5,12V32h6.25V52H48V2C41.1,2,35.5,7.6,35.5,12Z" transform="translate(1969.5 473)"/>
+<g transform="translate(2150 470)">
+<path class="f" d="M0,0H60V60H0Z"/>
+<path class="h" d="M27,2A25,25,0,1,0,52,27,25.009,25.009,0,0,0,27,2Zm0,36.25A11.25,11.25,0,1,1,38.25,27,11.235,11.235,0,0,1,27,38.25ZM27,24.5A2.5,2.5,0,1,0,29.5,27,2.507,2.507,0,0,0,27,24.5Z" transform="translate(3 3)"/>
+</g>
+<g transform="translate(1965 285)">
+<path class="f" d="M0,0H60V60H0Z"/>
+<path class="h" d="M14.5,30.5A7.49,7.49,0,0,0,7,38a5.073,5.073,0,0,1-5,5,12.935,12.935,0,0,0,10,5A10,10,0,0,0,22,38,7.49,7.49,0,0,0,14.5,30.5ZM48.775,7.079l-3.35-3.35a2.49,2.49,0,0,0-3.525,0l-22.4,22.4L26.375,33l22.4-22.4A2.49,2.49,0,0,0,48.775,7.079Z" transform="translate(3 4.496)"/>
+</g>
+<path class="h" d="M48,8V3H3V8L23,30.5V43H10.5v5h30V43H28V30.5ZM14.075,13,9.65,8H41.375l-4.45,5Z" transform="translate(2154.5 289.5)"/>
+<g transform="translate(1900 313)">
+<g class="l" transform="matrix(1, 0, 0, 1, -1900, -313)">
+<path class="e" d="M22.5,0h205a22.5,22.5,0,0,1,0,45H22.5a22.5,22.5,0,0,1,0-45Z" transform="translate(1963 835)"/>
+</g>
+<text class="i" transform="translate(188 550)">
+<tspan x="-27.593" y="0">
+VALIDER</tspan>
+</text>
+</g>
+<text class="j" transform="translate(1938 810)">
+<tspan x="29.028" y="13">
+Choisis 2 centres d&apos;intérêt au minimum</tspan>
+</text>
+<path class="e" d="M0,0H180V180H0Z" transform="translate(1905 595)"/>
+<g transform="translate(1965 655)">
+<path class="h" d="M39,3V8H34V3H14V8H9V3H4V48H9V43h5v5H34V43h5v5h5V3ZM14,38H9V33h5Zm0-10H9V23h5Zm0-10H9V13h5ZM39,38H34V33h5Zm0-10H34V23h5Zm0-10H34V13h5Z" transform="translate(6 4.5)"/>
+<path class="f" d="M0,0H60V60H0Z"/>
+</g>
+<g transform="translate(1983 605)">
+<rect class="f" width="24" height="24"/>
+<path class="g" d="M12,2A10,10,0,1,0,22,12,10.029,10.029,0,0,0,12,2Zm0,18a8,8,0,1,1,8-8,8.024,8.024,0,0,1-8,8Z"/>
+</g>
+<text class="d" transform="translate(1953 752.322)">
+<tspan x="0" y="0">
+Cinéma, films</tspan>
+</text>
+<path class="e" d="M0,0H180V180H0Z" transform="translate(2090 595)"/>
+<g transform="translate(2168 605)">
+<rect class="f" width="24" height="24"/>
+<path class="g" d="M12,2A10,10,0,1,0,22,12,10.029,10.029,0,0,0,12,2Zm0,18a8,8,0,1,1,8-8,8.024,8.024,0,0,1-8,8Z"/>
+</g>
+<text class="d" transform="translate(2180 752.322)">
+<tspan x="-40.698" y="0">
+Parcs, nature</tspan>
+</text>
+<g transform="translate(2150 655)">
+<path class="f" d="M0,0H60V60H0Z"/>
+<path class="h" d="M25.5,53.5A22.5,22.5,0,0,0,48,31,22.5,22.5,0,0,0,25.5,53.5ZM9.5,24.125a6.257,6.257,0,0,0,9.8,5.15l-.05.475a6.25,6.25,0,0,0,12.5,0l-.05-.475a6.161,6.161,0,0,0,3.55,1.1A6.236,6.236,0,0,0,37.925,18.5,6.241,6.241,0,1,0,31.7,7.725l.05-.475a6.25,6.25,0,0,0-12.5,0l.05.475a6.161,6.161,0,0,0-3.55-1.1A6.236,6.236,0,0,0,13.075,18.5,6.228,6.228,0,0,0,9.5,24.125Zm16-11.875a6.25,6.25,0,1,1-6.25,6.25A6.252,6.252,0,0,1,25.5,12.25ZM3,31A22.5,22.5,0,0,0,25.5,53.5,22.5,22.5,0,0,0,3,31Z" transform="translate(4.5 1.5)"/>
+</g>
+</g>
+</svg>
