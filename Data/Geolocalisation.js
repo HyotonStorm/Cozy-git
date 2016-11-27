@@ -22,7 +22,7 @@ function initGeoloc(callback) {
 };
 
 // Geolocalisation navigateur.
-fonction initGeoloc_navigator()
+/*fonction initGeoloc_navigator()
 {
 		var _geoData = {
 	_Latitude: 0,
@@ -46,4 +46,4 @@ fonction initGeoloc_navigator()
 function errorHandler(error)
 {
   
-}
+}*/
