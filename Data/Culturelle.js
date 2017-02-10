@@ -1,10 +1,9 @@
 // Type de Données : Culturelle.
 
 console.log("Get Type de Données : Culturelle.");
-
-var IntertsData = {
-	_description: [],
-	}
+var IntertsData = { // Déclaration d'un object.
+		 	_description: [],
+		  }
 
 
 function setIntertsDate(interets)
