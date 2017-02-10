@@ -1,19 +1,26 @@
 // Type de Données : VodIpTv.
-var VodIpTvData = {
+var VodIpTvData = {   // Déclaration d'un Object VodIpTvData.
 	_doc: [],
 	_thematique: []	
 	}
-
-function initVodIpTv_title(callback) {
-	cozysdk.defineView('VideoStream', 'voidiptv', 'function(doc) { emit(doc.title); }', function(err) {
-		cozysdk.queryView('VideoStream', 'voidiptv', {"limit":50, "include_docs":true, "descending":true}, function(err, docs) {
-			console.log(docs);
-			VodIpTvData._doc = docs;
-			callback();	
-		});
-	});
+// Déclaration de la Fonction.
+function initVodIpTv_title(callback) {  
+	cozysdk.defineView('VideoStream', 
+			   'voidiptv',
+			   'function(doc) { emit(doc.title); }', 
+			    function(err) {
+					    cozysdk.queryView('VideoStream', 
+							      'voidiptv',
+							      {"limit":50, "include_docs":true, "descending":true}, 
+							      function(err, docs) {
+						    				console.log(docs);
+										VodIpTvData._doc = docs;
+										callback();	
+										   });
+					});
 };
 
+// Déclaration de la Fonction.
 function getGenre(movie, callback)
 {
 	var baseURI = 'https://query.wikidata.org/bigdata/namespace/wdq/sparql?query=';
@@ -21,26 +28,27 @@ function getGenre(movie, callback)
 	$.getJSON(baseURI + encodeURIComponent(sparql), callback);
 }
 
+// Déclaration de la Fonction.
 function getVodIpTv() {
-
-
 	initVodIpTv_title(function() {
-
-	var lengthdoc = VodIpTvData._doc.length;
-		console.log("Size :" + String(lengthdoc));
-		for (var i = 0; i < VodIpTvData._doc.length; i++){
-			var movie = String(VodIpTvData._doc[i].doc.title);
-			console.log("Movie :" + String(movie));
-			getGenre(movie, function(result) {
-				console.log(result);
-				var theme = result.results.bindings.map(function(binding) { 
-					return binding.genreLabel.value ;
-				}).join(',');
-				VodIpTvData._thematique[i] = theme;
-				console.log("Theme :" + String(theme));
-			});
-		}		
-	});
+					var lengthdoc = VodIpTvData._doc.length;
+					console.log("Size :" + String(lengthdoc));
+					for (var i = 0; i < VodIpTvData._doc.length; i++)
+					{
+					var movie = String(VodIpTvData._doc[i].doc.title);
+					console.log("Movie :" + String(movie));
+					getGenre(movie, 
+						function(result) 
+						 {
+							console.log(result);
+							var theme = result.results.bindings.map(function(binding) { 
+															return binding.genreLabel.value ;
+												 			  }).join(',');
+							VodIpTvData._thematique[i] = theme;
+							console.log("Theme :" + String(theme));
+						});
+					}		
+		});
 }
 
 console.log(" Get Type de Données : VodIpTv.");
